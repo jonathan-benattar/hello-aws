@@ -1,0 +1,5 @@
+# SSH keys: never commit these
+*.pem
+
+# Python cache
+__pycache__/
